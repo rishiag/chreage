@@ -1,0 +1,26 @@
+{
+  "name": "chreage",
+  "version": "0.0.0",
+  "description": "Chreage Project",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rishiag/chreage.git"
+  },
+  "keywords": [
+    "chreage"
+  ],
+  "author": "Rishi Agarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rishiag/chreage/issues"
+  },
+  "homepage": "https://github.com/rishiag/chreage",
+  "dependencies": {
+    "express": "^4.7.2",
+    "logfmt": "^1.1.2"
+  }
+}
